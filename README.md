@@ -50,16 +50,16 @@ User → CloudFront CDN → S3 Static Website
 ## Project Screenshots
 
 ### S3 Bucket
-![S3 Bucket](Screenshots/s3-bucket.png)
+![S3 Bucket](s3-bucket.png)
 
 ### Static Website Hosting
-![Static Hosting](Screenshots/static-website-hosting.png)
+![Static Hosting](static-website-hosting.png)
 
 ### Bucket Policy
 ![Bucket Policy](bucket-policy.png)
 
 ### CloudFront Distribution
-![CloudFront](Screenshots/cloudfront-distribution.png)
+![CloudFront](cloudfront-distribution.png)
 
 ### Website Output
-![Website](Screenshots/website-output.png)
+![Website](website-output.png)
