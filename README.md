@@ -51,27 +51,27 @@ User → CloudFront CDN → S3 Static Website
 
 ### Architecture Diagram
 
-![Architecture](screenshots/architecture-diagram.png)
+![Architecture](screenshots/architecture-diagram.pn)
 
 ### S3 Bucket
 
-![S3 Bucket](screenshots/s3-bucket.png)
+s3-bucket.png
 
 ### Static Website Hosting
 
-![Static Hosting](screenshots/static-website-hosting.png)
+static-website-hosting.png
 
 ### Bucket Policy
 
-![Bucket Policy](screenshots/bucket-policy.png)
+bucket-policy.png
 
 ### CloudFront Distribution
 
-![CloudFront](screenshots/cloudfront-distribution.png)
+cloudfront-distribution.png
 
 ### Website Output
 
-![Website](screenshots/website-output.png)
+website-output.png
 
 ## Learning Outcomes
 
