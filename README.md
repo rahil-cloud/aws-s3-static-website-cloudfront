@@ -49,38 +49,17 @@ User → CloudFront CDN → S3 Static Website
 
 ## Project Screenshots
 
-### Architecture Diagram
-
-![Architecture](screenshots/architecture-diagram.pn)
-
 ### S3 Bucket
-
-aws-s3-static-website-cloudfront/s3-bucket.png
+![S3 Bucket](Screenshots/s3-bucket.png)
 
 ### Static Website Hosting
-
-aws-s3-static-website-cloudfront/static-website-hosting.png
+![Static Hosting](Screenshots/static-website-hosting.png)
 
 ### Bucket Policy
-
-aws-s3-static-website-cloudfront/bucket-policy.png
+![Bucket Policy](Screenshots/bucket-policy.png)
 
 ### CloudFront Distribution
-
-aws-s3-static-website-cloudfront/cloudfront-distribution.png
+![CloudFront](Screenshots/cloudfront-distribution.png)
 
 ### Website Output
-
-aws-s3-static-website-cloudfront/website-output.png
-
-## Learning Outcomes
-
-* Hosting static websites on Amazon S3
-* Configuring CloudFront CDN
-* Managing bucket policies and permissions
-* Understanding cloud content delivery architecture
-
-## Author
-
-Mohammad Rahil
-Aspiring Cloud Support Engineer
+![Website](Screenshots/website-output.png)
