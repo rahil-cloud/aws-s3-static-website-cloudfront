@@ -56,7 +56,7 @@ User → CloudFront CDN → S3 Static Website
 ![Static Hosting](Screenshots/static-website-hosting.png)
 
 ### Bucket Policy
-![Bucket Policy](Screenshots/bucket-policy.png)
+![Bucket Policy](bucket-policy.png)
 
 ### CloudFront Distribution
 ![CloudFront](Screenshots/cloudfront-distribution.png)
