@@ -55,23 +55,23 @@ User → CloudFront CDN → S3 Static Website
 
 ### S3 Bucket
 
-s3-bucket.png
+aws-s3-static-website-cloudfront/s3-bucket.png
 
 ### Static Website Hosting
 
-static-website-hosting.png
+aws-s3-static-website-cloudfront/static-website-hosting.png
 
 ### Bucket Policy
 
-bucket-policy.png
+aws-s3-static-website-cloudfront/bucket-policy.png
 
 ### CloudFront Distribution
 
-cloudfront-distribution.png
+aws-s3-static-website-cloudfront/cloudfront-distribution.png
 
 ### Website Output
 
-website-output.png
+aws-s3-static-website-cloudfront/website-output.png
 
 ## Learning Outcomes
 
